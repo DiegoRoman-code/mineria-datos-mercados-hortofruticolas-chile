@@ -132,11 +132,7 @@ Los segmentos identificados representan distintos comportamientos comerciales, i
 3. Carga el archivo de datos cuando lo solicite la primera celda.
 4. Ejecuta las celdas en orden para reproducir el análisis, el procesamiento y los experimentos.
 
-### Abrir en Google Colab
 
-Reemplaza `TU_USUARIO` y `NOMBRE_DEL_REPO` por los datos reales de tu repositorio:
-
-[![Abrir en Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/TU_USUARIO/NOMBRE_DEL_REPO/blob/main/mineria_datos_2.ipynb)
 
 ## 📁 Estructura del repositorio
 
