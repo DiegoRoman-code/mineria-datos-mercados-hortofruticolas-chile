@@ -127,7 +127,7 @@ Los segmentos identificados representan distintos comportamientos comerciales, i
 
 ## 🚀 Cómo ejecutar el proyecto
 
-1. Descarga el dataset desde [Kaggle](https://www.kaggle.com/datasets/sebastiantarebustos/odepa-chilean-fruit-and-vegetables-volume-price).
+1. Descarga el dataset desde [Kaggle](https://www.kaggle.com/datasets/sebastiantarebustos/odepa-chilean-fruit-and-vegetables-volume-price) o descargalo desde mi github en la parte de arriba de este repositorio
 2. Abre el notebook del proyecto en Google Colab.
 3. Carga el archivo de datos cuando lo solicite la primera celda.
 4. Ejecuta las celdas en orden para reproducir el análisis, el procesamiento y los experimentos.
